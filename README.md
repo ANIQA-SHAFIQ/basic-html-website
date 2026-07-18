@@ -1,2 +1,3 @@
 # basic-html-website
-A  simple Web Page about climate change is designed by using html.
+I am creating my first simple Web Page about climate change is designed by using html.
+Author:ANIQA SHAFIQ
